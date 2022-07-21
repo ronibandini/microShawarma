@@ -4,6 +4,10 @@ Tiny desk Shawarma Machine with Arduino MKR WiFi 1010
 # 3d enclosure
 You can get the 3d parts at https://cults3d.com/en/3d-model/gadget/micro-shawarma
 
+# Demo
+
+https://www.youtube.com/watch?v=9zsS8uAboIw
+
 # Credits
 
 Roni Bandini
